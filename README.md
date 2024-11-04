@@ -1,4 +1,4 @@
-# Practica Entregable 3 - Programación Web
+# Practica Guiada 3 - Programación Web
 
 Este repositorio contiene el código de la práctica guiada "Programación Web"
 de la asignatura Software Avanzado Radar (SARA) del Master en Sistemas Radar.
