@@ -26,7 +26,12 @@ el escenario de nuestro servidor es el mismo que durante la
 [Práctica Guiada 2](https://github.com/SARA-MSRA-UPM/PG2_tiempo_real).
 
 ## Ejecución
-El primer paso para poder ejecutar la práctica y comprobar su funcionamiento
+El primer paso para realizar esta práctica es descargar el proyecto
+[RadarServer](https://github.com/SARA-MSRA-UPM/RadarServer) y arrancar el
+servidor allí desarrollado tal y como se indica en sus instrucciones. Esto es
+indispensable para el desarrollo de la práctica.
+
+El segundo paso para poder ejecutar la práctica y comprobar su funcionamiento
 será la creación de un entorno virtual propio del proyecto. En PyCharm es
 posible crear un entorno virtual mediante la interfaz gráfica. En caso
 necesario los comandos son los siguientes.
